@@ -6,7 +6,7 @@ const sharp = require("sharp");
 const TEMPLATE_URL = "https://raw.githubusercontent.com/s7583073-alt/stonks-api/main/601448566dfbe10018e00c5d.png";
 // Posición de la cabeza nueva: esquina superior izquierda (x, y) y tamaño en píxeles.
 // Puedes probar otros números sin editar el código agregando &x=...&y=...&size=... al enlace.
-const HEAD = { x: 300, y: 80, size: 220 };
+const HEAD = { x: 600, y: 120, size: 220 };
 // true = avatar redondo, false = cuadrado
 const ROUND = true;
 // ===========================================
